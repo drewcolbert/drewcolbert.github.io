@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pitcher Breakdown"
+title: "Pitcher Breakdown (R)"
 subtitle: "A Look At The Tendancies of Two Pitchers"
 background: '/img/posts/pitcher-analysis/pitcher-analysis-BG.jpg'
 ---

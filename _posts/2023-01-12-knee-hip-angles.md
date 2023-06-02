@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple ANOVA on Biomechanical Data"
+title: "Simple ANOVA on Biomechanical Data (R)"
 subtitle: "How Sloped Surfaces Alter Our Walking Mechanics"
 background: '/img/posts/knee-hip/knee-hip-bg.jpg'
 ---
